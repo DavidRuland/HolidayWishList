@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Holiday wishList</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="item_description">Description</string>
+    <string name="languages">Swedish</string>
+    <string name="holidays_wishlist">Holidays wishlist</string>
+    <string name="press_to_write">Press to write</string>
+    <string name="rating">Rating</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
